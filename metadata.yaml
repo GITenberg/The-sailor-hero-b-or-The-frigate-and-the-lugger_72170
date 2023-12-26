@@ -1,5 +1,8 @@
 _repo: The-sailor-hero-b-or-The-frigate-and-the-lugger_72170
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72170-h/images/cover.jpg
 creator:
   author:
     agent_name: Armstrong, F. C. (Francis Claudius)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56576'
     url: http://www.gutenberg.org/2009/agents/56576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72170#The-sailor-hero-b-or-The-frigate-and-the-lugger
 gutenberg_issued: '2023-11-19'
 identifiers:
   gutenberg: '72170'
